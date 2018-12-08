@@ -1,0 +1,11 @@
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\bin\Debug\netcoreapp2.1\TestGitDotNet.deps.json
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\bin\Debug\netcoreapp2.1\TestGitDotNet.runtimeconfig.json
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\bin\Debug\netcoreapp2.1\TestGitDotNet.runtimeconfig.dev.json
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\bin\Debug\netcoreapp2.1\TestGitDotNet.dll
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\bin\Debug\netcoreapp2.1\TestGitDotNet.pdb
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\obj\Debug\netcoreapp2.1\TestGitDotNet.csprojAssemblyReference.cache
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\obj\Debug\netcoreapp2.1\TestGitDotNet.csproj.CoreCompileInputs.cache
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\obj\Debug\netcoreapp2.1\TestGitDotNet.AssemblyInfoInputs.cache
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\obj\Debug\netcoreapp2.1\TestGitDotNet.AssemblyInfo.cs
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\obj\Debug\netcoreapp2.1\TestGitDotNet.dll
+D:\Workspaces\TestGitDotNet\TestGitDotNet\TestGitDotNet\obj\Debug\netcoreapp2.1\TestGitDotNet.pdb
